@@ -1,0 +1,3 @@
+br\com\gisele\via\varejo\controller\ViaVarejoController.class
+br\com\gisele\via\varejo\AppViaVarejoBoot.class
+br\com\gisele\via\varejo\config\ViaVarejoConfig.class
